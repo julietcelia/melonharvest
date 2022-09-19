@@ -1,4 +1,4 @@
 """A number-guessing game."""
 
-# Put your code here
-print("hi")
+name = input("What's your name?")
+print(f"Greetings {name}!")
